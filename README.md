@@ -1,6 +1,6 @@
 # Blazor Server DataGrid - ForeignKeyColumn with CustomMenuFilter
 
-This sample explains about how to render the custom component (ComboBox control) in the menu filter of ForeignKey column of Blazor DataGrid.
+This sample explains about how to render the custom component in the menu filter of ForeignKey column of Blazor DataGrid.
 
 ## Prerequisites
 
