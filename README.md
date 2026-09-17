@@ -23,18 +23,17 @@ This sample demonstrates how to customize filtering behavior for a foreign key c
 **Visual Studio 2022**
 
 1. Clone or download the repository.
-2. Open the verified solution file: `CrudAsynchronousSample.sln`.
+2. Open the verified solution file: `ForeignKeyWithCustomMenuFilter.sln`.
 3. Restore NuGet packages.
-4. Ensure the startup project is `CrudAsynchronousSample` if multiple startup projects are present.
-5. Build the solution.
-6. Run the application using `Ctrl+F5`.
-7. Access the application at the local URL displayed by the ASP.NET Core launch output. `[VERIFY: local development URL]`
-
+4. Build the solution.
+5. Run the application using `Ctrl+F5`.
+6. Access the application at the local URL displayed by the launch output.
+   
 **Visual Studio Code**
 
 1. Open the repository folder in Visual Studio Code.
 2. Open the integrated terminal.
-3. Navigate to the project directory that contains `CrudAsynchronousSample.csproj`.
+3. Navigate to the project directory.
 
 ```bash
 dotnet restore
